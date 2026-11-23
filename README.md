@@ -16,7 +16,7 @@ Note that responsive neurostimulation (RNS) systems must be fully implanted beca
 
 Circuit boards for RESPNS, a closed-loop responsive neurostimulator in the class of the NeuroPace RNS, built from off-the-shelf chips only. The bench board is for lab bring-up; the implant board carries the same circuit folded into a 28 × 60 × 7.7 mm titanium can.
 
-<img width="3840" height="2160" alt="RESPNS bench and implant boards" src="img/respns_boards.jpg" />
+<img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/respns_boards.jpg" />
 
 | | Bench | Implant |
 |---|---|---|

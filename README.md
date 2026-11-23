@@ -38,5 +38,3 @@ Circuit boards for RESPNS, a closed-loop responsive neurostimulator in the class
 <img alt="Safety interlock" src="img/sch_safety.png" />
 
 </details>
-
-Power, charging-heat and bring-up studies: [RESPNS-Studies](https://github.com/VerifyHalo/RESPNS-Studies).

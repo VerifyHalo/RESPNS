@@ -1,0 +1,16 @@
+(version 1)
+(rule "Laser vias (micro, blind skip, core)"
+  (condition "A.Type == 'Via' && A.Via_Type != 'Through'")
+  (constraint via_diameter (min 0.25mm))
+  (constraint hole_size (min 0.1mm))
+  (constraint annular_width (min 0.075mm)))
+(rule "Through vias"
+  (condition "A.Type == 'Via' && A.Via_Type == 'Through'")
+  (constraint via_diameter (min 0.3mm))
+  (constraint hole_size (min 0.15mm)))
+(rule "Stacked filled vias (same net)"
+  (condition "A.Type == 'Via' && B.Type == 'Via' && A.Net == B.Net")
+  (constraint hole_to_hole (min 0mm)))
+(rule "Flex areas: no vias"
+  (condition "A.Type == 'Via' && A.insideArea('FLEX*')")
+  (constraint disallow via))

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RESPNS_Implant")(type "KiCad")(uri "${KIPRJMOD}/lib/RESPNS_Implant.pretty")(options "")(descr "Implant-specific footprints"))
+  (lib (name "HALO")(type "KiCad")(uri "${KIPRJMOD}/../bench/lib/HALO.pretty")(options "")(descr "RESPNS parts"))
+)

@@ -1,0 +1,12 @@
+(footprint "BatteryTab_2x"
+	(version 20240108)
+	(generator "respns")
+	(layer "F.Cu")
+	(descr "Weld pads for the cell's nickel tabs (pad 1 positive, pad 2 negative)")
+	(attr smd)
+	(property "Reference" "REF**" (at 0 -1.2 0) (layer "F.SilkS") (effects (font (size 0.5 0.5) (thickness 0.08))))
+	(property "Value" "BatteryTab_2x" (at 0 1.2 0) (layer "F.Fab") (effects (font (size 0.5 0.5) (thickness 0.08))))
+	(pad "1" smd roundrect (at 0 -2.1) (size 3.2 2.6) (roundrect_rratio 0.1) (layers "F.Cu" "F.Mask"))
+	(pad "2" smd roundrect (at 0 2.1) (size 3.2 2.6) (roundrect_rratio 0.1) (layers "F.Cu" "F.Mask"))
+	(fp_rect (start -1.750 -3.550) (end 1.750 3.550) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
+)

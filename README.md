@@ -13,3 +13,38 @@ Circuit boards for RESPNS, a closed-loop responsive neurostimulator in the class
 | Checks | ERC 0 errors | DRC 0 violations, 0 unconnected |
 
 Research prototype for bench and animal work. Not for human use.
+
+## Layout
+
+<img alt="Implant board, top and bottom" src="img/implant_top_bottom.jpg" />
+
+Implant board, top and bottom.
+
+<img alt="Implant board copper layers" src="img/implant_copper.png" />
+
+Implant copper, F.Cu to B.Cu; the flex hinge carries In3 and In4 only.
+
+## Package
+
+<img alt="Implant package, exploded" src="img/package_exploded.jpg" />
+
+The folded board and cell sit in the titanium can; the receiver coil sits on ferrite outside the can, under the silicone cover.
+
+<img alt="Folded board stack, section" src="img/package_section.png" />
+
+Section through the folded board stack in the 6.8 mm can.
+
+## Schematics
+
+<details>
+<summary>Power, stimulator, sensing, MCU and safety sheets</summary>
+
+<img alt="Power" src="img/sch_power.png" />
+<img alt="Stimulator" src="img/sch_stim.png" />
+<img alt="Sensing" src="img/sch_sense.png" />
+<img alt="MCU" src="img/sch_mcu.png" />
+<img alt="Safety interlock" src="img/sch_safety.png" />
+
+</details>
+
+Power, charging-heat and bring-up studies: [RESPNS-Studies](https://github.com/VerifyHalo/RESPNS-Studies).

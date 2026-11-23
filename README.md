@@ -1,6 +1,6 @@
 # RESPonsive Neuro Stimulator
 
-Research prototype for bench and animal work. Not for human use.
+This repo demos work from our private repositories. Research prototype for bench and animal work. Not for human use.
 
 We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts.
 

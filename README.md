@@ -1,4 +1,12 @@
+<img alt="RESPNS implant package, exploded" src="img/package_exploded.jpg" />
+
 # RESPNS Boards
+
+We designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, for [X]x less. No custom ASIC.
+
+About 50 million people live with epilepsy, and 1 in 3 do not respond to medication. For many of them, the most advanced option is responsive neurostimulation: an implant in the skull that listens to the brain, catches a seizure as it starts, and disrupts it with a short burst of stimulation. NeuroPace's RNS System, approved by the FDA in 2013, is still the only one, at [$XXk] per device. In the long-term trial, patients had a median of 75% fewer seizures after 9 years.
+
+It must be fully implanted, because anything through the skin is an infection risk. So the battery is sealed in and every microamp counts. That is why devices like this have relied on custom chips.
 
 Circuit boards for RESPNS, a closed-loop responsive neurostimulator in the class of the NeuroPace RNS, built from off-the-shelf chips only. The bench board is for lab bring-up; the implant board carries the same circuit folded into a 28 × 60 × 7.7 mm titanium can.
 
@@ -26,13 +34,9 @@ Implant copper, F.Cu to B.Cu; the flex hinge carries In3 and In4 only.
 
 ## Package
 
-<img alt="Implant package, exploded" src="img/package_exploded.jpg" />
-
-The folded board and cell sit in the titanium can; the receiver coil sits on ferrite outside the can, under the silicone cover.
-
 <img alt="Folded board stack, section" src="img/package_section.png" />
 
-Section through the folded board stack in the 6.8 mm can.
+Section through the folded board stack in the 6.8 mm can, with the receiver coil on ferrite under the silicone cover.
 
 ## Schematics
 

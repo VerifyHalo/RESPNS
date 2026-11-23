@@ -1,6 +1,6 @@
 # RESPonsive Neuro Stimulator
 
-This repo demos work from our private repositories. Research prototype for bench and animal work. Not for human use.
+This repo demos work from our private repositories.
 
 We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts.
 
@@ -21,3 +21,5 @@ Note that responsive neurostimulation (RNS) systems must be fully implanted beca
 ### Redesign
 
 <img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/boards.jpg" />
+
+Research prototype for bench and animal work. Not for human use.

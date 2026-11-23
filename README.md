@@ -4,13 +4,13 @@ This repo demos work from our private repositories.
 
 We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts.
 
-<img alt="RESPNS implant package, exploded" src="img/package.jpg" />
+<img width="100%" alt="RESPNS implant package, exploded" src="img/package_exploded.webp" />
 
-<img alt="Folded board stack, section" src="img/package_section.png" />
+<img width="100%" alt="Folded board stack, section" src="img/package_section_card.png" />
 
-<img width="1598" height="804" alt="image" src="https://github.com/user-attachments/assets/085db5cd-a98d-4c7b-8838-efa88f5400fb" />
+<img width="100%" alt="Closed-loop detection on synthetic ECoG" src="img/closed_loop.png" />
 
-<img width="1633" height="551" alt="image" src="https://github.com/user-attachments/assets/85d5d8a7-7d71-41ad-b1bc-583e9a669280" />
+<img width="100%" alt="Temperature rise while charging" src="img/charging_heat.png" />
 
 ### Background 
 
@@ -20,6 +20,8 @@ Note that responsive neurostimulation (RNS) systems must be fully implanted beca
 
 ### Redesign
 
-<img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/boards.jpg" />
+<img width="100%" alt="RESPNS bench and implant boards" src="img/board_layout.webp" />
 
 Research prototype for bench and animal work. Not for human use.
+
+Copyright © 2026 Anton Melnychuk. Licensed under the CERN Open Hardware Licence v2, Strongly Reciprocal (CERN-OHL-S-2.0); see LICENSE.

@@ -1,4 +1,4 @@
-# RESponsive Neuro Stimulator
+# RESPonsive Neuro Stimulator
 
 Research prototype for bench and animal work. Not for human use.
 

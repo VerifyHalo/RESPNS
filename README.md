@@ -18,6 +18,4 @@ Note that responsive neurostimulation (RNS) systems must be fully implanted beca
 
 ### Redesign
 
-The bench board is for lab bring-up; the implant board carries the same circuit folded into a 28 × 60 × 7.7 mm titanium can.
-
 <img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/boards.jpg" />

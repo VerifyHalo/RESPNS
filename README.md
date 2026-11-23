@@ -14,7 +14,7 @@ About 50 million people live with epilepsy, and 1 in 3 do not respond to medicat
 
 Note that responsive neurostimulation (RNS) systems must be fully implanted because percutaneous components pose an infection risk, while emerging non-invasive data acquisition systems cannot match the signal quality of invasive techniques. So the battery is sealed in and every microamp counts. That is why devices like this have relied on custom chips.
 
-Circuit boards for RESPNS, a closed-loop responsive neurostimulator in the class of the NeuroPace RNS, built from off-the-shelf chips only. The bench board is for lab bring-up; the implant board carries the same circuit folded into a 28 × 60 × 7.7 mm titanium can.
+The bench board is for lab bring-up; the implant board carries the same circuit folded into a 28 × 60 × 7.7 mm titanium can.
 
 <img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/respns_boards.jpg" />
 

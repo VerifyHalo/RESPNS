@@ -2,7 +2,7 @@
 
 A public subset of our private development repositories.
 
-We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts, and run in vivo experiments to find the most effective epilepsy treatment techniques.
+We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts (60x cheaper), and run in vivo experiments to find the most effective epilepsy treatment techniques.
 
 <img width="100%" alt="RESPNS implant package, exploded" src="img/package_exploded.webp" />
 

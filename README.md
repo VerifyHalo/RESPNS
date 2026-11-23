@@ -24,6 +24,10 @@ Circuit boards for RESPNS, a closed-loop responsive neurostimulator in the class
 | Routing | In progress | Complete, 1,088 vias |
 | Checks | ERC 0 errors | DRC 0 violations, 0 unconnected |
 
+# Detection
+
+<img width="1598" height="804" alt="image" src="https://github.com/user-attachments/assets/085db5cd-a98d-4c7b-8838-efa88f5400fb" />
+
 ## Schematics
 
 <details>

@@ -4,7 +4,7 @@ Research prototype for bench and animal work. Not for human use.
 
 We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts.
 
-<img alt="RESPNS implant package, exploded" src="img/package_exploded.jpg" />
+<img alt="RESPNS implant package, exploded" src="img/package.jpg" />
 
 <img alt="Folded board stack, section" src="img/package_section.png" />
 
@@ -20,4 +20,4 @@ Note that responsive neurostimulation (RNS) systems must be fully implanted beca
 
 The bench board is for lab bring-up; the implant board carries the same circuit folded into a 28 × 60 × 7.7 mm titanium can.
 
-<img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/respns_boards.jpg" />
+<img width="3400" height="3241" alt="RESPNS bench and implant boards" src="img/boards.jpg" />

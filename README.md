@@ -2,7 +2,7 @@
 
 Research prototype for bench and animal work. Not for human use.
 
-We designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts.
+We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts.
 
 <img alt="RESPNS implant package, exploded" src="img/package_exploded.jpg" />
 

@@ -1,6 +1,6 @@
 # RESPonsive Neuro Stimulator
 
-This repo demos work from our private repositories.
+A public subset of our private development repositories.
 
 We (re)designed an epilepsy implant in the class of NeuroPace's RNS from catalog chips, with prototype boards at about $600 in parts, and run in vivo experiments to find the most effective epilepsy treatment techniques.
 
